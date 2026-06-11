@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(make V=1)",
+      "Bash(make)"
+    ]
+  }
+}
